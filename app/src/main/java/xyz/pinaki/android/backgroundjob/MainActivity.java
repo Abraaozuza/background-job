@@ -16,7 +16,11 @@ import android.util.Log;
  * https://code.tutsplus.com/tutorials/using-the-jobscheduler-api-on-android-lollipop--cms-23562
  * https://medium.com/google-developers/scheduling-jobs-like-a-pro-with-jobscheduler-286ef8510129
  * http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html
- *
+ * https://developer.android.com/topic/performance/scheduling.html#js
+ * https://github.com/romannurik/muzei
+ * https://blog.hypertrack.com/2016/12/01/scheduling-tasks-in-android-made-easy/
+ * https://github.com/evernote/android-job
+ * http://www.vogella.com/tutorials/AndroidServices/article.html
  */
 public class MainActivity extends AppCompatActivity {
     public static final String MESSENGER_INTENT_KEY = "MESSENGER_INTENT_KEY";
